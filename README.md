@@ -9,6 +9,7 @@ Further plan of action is as follows:
 
 
 kaggle notebook: https://www.kaggle.com/code/vrindakohli/art-vit
+
 dataset: https://www.kaggle.com/datasets/sivarazadi/wikiart-art-movementsstyles
 
 ![Screenshot (226)](https://user-images.githubusercontent.com/89012268/225294838-7d31a70e-264b-4495-9b44-65db9efdd66b.png)
